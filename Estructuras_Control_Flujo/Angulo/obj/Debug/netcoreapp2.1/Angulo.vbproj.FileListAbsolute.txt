@@ -1,0 +1,11 @@
+D:\GitHubProject\Programacion2\pg2-s19e203-estructuras-de-control-kuasniski\Estructuras_Control_Flujo\Angulo\bin\Debug\netcoreapp2.1\Angulo.deps.json
+D:\GitHubProject\Programacion2\pg2-s19e203-estructuras-de-control-kuasniski\Estructuras_Control_Flujo\Angulo\bin\Debug\netcoreapp2.1\Angulo.runtimeconfig.json
+D:\GitHubProject\Programacion2\pg2-s19e203-estructuras-de-control-kuasniski\Estructuras_Control_Flujo\Angulo\bin\Debug\netcoreapp2.1\Angulo.runtimeconfig.dev.json
+D:\GitHubProject\Programacion2\pg2-s19e203-estructuras-de-control-kuasniski\Estructuras_Control_Flujo\Angulo\bin\Debug\netcoreapp2.1\Angulo.dll
+D:\GitHubProject\Programacion2\pg2-s19e203-estructuras-de-control-kuasniski\Estructuras_Control_Flujo\Angulo\bin\Debug\netcoreapp2.1\Angulo.pdb
+D:\GitHubProject\Programacion2\pg2-s19e203-estructuras-de-control-kuasniski\Estructuras_Control_Flujo\Angulo\obj\Debug\netcoreapp2.1\Angulo.vbprojAssemblyReference.cache
+D:\GitHubProject\Programacion2\pg2-s19e203-estructuras-de-control-kuasniski\Estructuras_Control_Flujo\Angulo\obj\Debug\netcoreapp2.1\Angulo.vbproj.CoreCompileInputs.cache
+D:\GitHubProject\Programacion2\pg2-s19e203-estructuras-de-control-kuasniski\Estructuras_Control_Flujo\Angulo\obj\Debug\netcoreapp2.1\Angulo.AssemblyInfoInputs.cache
+D:\GitHubProject\Programacion2\pg2-s19e203-estructuras-de-control-kuasniski\Estructuras_Control_Flujo\Angulo\obj\Debug\netcoreapp2.1\Angulo.AssemblyInfo.vb
+D:\GitHubProject\Programacion2\pg2-s19e203-estructuras-de-control-kuasniski\Estructuras_Control_Flujo\Angulo\obj\Debug\netcoreapp2.1\Angulo.dll
+D:\GitHubProject\Programacion2\pg2-s19e203-estructuras-de-control-kuasniski\Estructuras_Control_Flujo\Angulo\obj\Debug\netcoreapp2.1\Angulo.pdb

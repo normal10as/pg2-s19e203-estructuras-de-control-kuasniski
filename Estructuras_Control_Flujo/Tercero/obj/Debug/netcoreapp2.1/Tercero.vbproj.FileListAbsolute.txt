@@ -1,0 +1,11 @@
+D:\GitHubProject\Programacion2\pg2-s19e203-estructuras-de-control-kuasniski\Estructuras_Control_Flujo\Tercero\bin\Debug\netcoreapp2.1\Tercero.deps.json
+D:\GitHubProject\Programacion2\pg2-s19e203-estructuras-de-control-kuasniski\Estructuras_Control_Flujo\Tercero\bin\Debug\netcoreapp2.1\Tercero.runtimeconfig.json
+D:\GitHubProject\Programacion2\pg2-s19e203-estructuras-de-control-kuasniski\Estructuras_Control_Flujo\Tercero\bin\Debug\netcoreapp2.1\Tercero.runtimeconfig.dev.json
+D:\GitHubProject\Programacion2\pg2-s19e203-estructuras-de-control-kuasniski\Estructuras_Control_Flujo\Tercero\bin\Debug\netcoreapp2.1\Tercero.dll
+D:\GitHubProject\Programacion2\pg2-s19e203-estructuras-de-control-kuasniski\Estructuras_Control_Flujo\Tercero\bin\Debug\netcoreapp2.1\Tercero.pdb
+D:\GitHubProject\Programacion2\pg2-s19e203-estructuras-de-control-kuasniski\Estructuras_Control_Flujo\Tercero\obj\Debug\netcoreapp2.1\Tercero.vbprojAssemblyReference.cache
+D:\GitHubProject\Programacion2\pg2-s19e203-estructuras-de-control-kuasniski\Estructuras_Control_Flujo\Tercero\obj\Debug\netcoreapp2.1\Tercero.vbproj.CoreCompileInputs.cache
+D:\GitHubProject\Programacion2\pg2-s19e203-estructuras-de-control-kuasniski\Estructuras_Control_Flujo\Tercero\obj\Debug\netcoreapp2.1\Tercero.AssemblyInfoInputs.cache
+D:\GitHubProject\Programacion2\pg2-s19e203-estructuras-de-control-kuasniski\Estructuras_Control_Flujo\Tercero\obj\Debug\netcoreapp2.1\Tercero.AssemblyInfo.vb
+D:\GitHubProject\Programacion2\pg2-s19e203-estructuras-de-control-kuasniski\Estructuras_Control_Flujo\Tercero\obj\Debug\netcoreapp2.1\Tercero.dll
+D:\GitHubProject\Programacion2\pg2-s19e203-estructuras-de-control-kuasniski\Estructuras_Control_Flujo\Tercero\obj\Debug\netcoreapp2.1\Tercero.pdb

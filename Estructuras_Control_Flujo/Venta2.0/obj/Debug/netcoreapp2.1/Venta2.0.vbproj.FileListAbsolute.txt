@@ -1,0 +1,11 @@
+D:\GitHubProject\Programacion2\pg2-s19e203-estructuras-de-control-kuasniski\Estructuras_Control_Flujo\Venta2.0\bin\Debug\netcoreapp2.1\Venta2.0.deps.json
+D:\GitHubProject\Programacion2\pg2-s19e203-estructuras-de-control-kuasniski\Estructuras_Control_Flujo\Venta2.0\bin\Debug\netcoreapp2.1\Venta2.0.runtimeconfig.json
+D:\GitHubProject\Programacion2\pg2-s19e203-estructuras-de-control-kuasniski\Estructuras_Control_Flujo\Venta2.0\bin\Debug\netcoreapp2.1\Venta2.0.runtimeconfig.dev.json
+D:\GitHubProject\Programacion2\pg2-s19e203-estructuras-de-control-kuasniski\Estructuras_Control_Flujo\Venta2.0\bin\Debug\netcoreapp2.1\Venta2.0.dll
+D:\GitHubProject\Programacion2\pg2-s19e203-estructuras-de-control-kuasniski\Estructuras_Control_Flujo\Venta2.0\bin\Debug\netcoreapp2.1\Venta2.0.pdb
+D:\GitHubProject\Programacion2\pg2-s19e203-estructuras-de-control-kuasniski\Estructuras_Control_Flujo\Venta2.0\obj\Debug\netcoreapp2.1\Venta2.0.vbprojAssemblyReference.cache
+D:\GitHubProject\Programacion2\pg2-s19e203-estructuras-de-control-kuasniski\Estructuras_Control_Flujo\Venta2.0\obj\Debug\netcoreapp2.1\Venta2.0.vbproj.CoreCompileInputs.cache
+D:\GitHubProject\Programacion2\pg2-s19e203-estructuras-de-control-kuasniski\Estructuras_Control_Flujo\Venta2.0\obj\Debug\netcoreapp2.1\Venta2.0.AssemblyInfoInputs.cache
+D:\GitHubProject\Programacion2\pg2-s19e203-estructuras-de-control-kuasniski\Estructuras_Control_Flujo\Venta2.0\obj\Debug\netcoreapp2.1\Venta2.0.AssemblyInfo.vb
+D:\GitHubProject\Programacion2\pg2-s19e203-estructuras-de-control-kuasniski\Estructuras_Control_Flujo\Venta2.0\obj\Debug\netcoreapp2.1\Venta2.0.dll
+D:\GitHubProject\Programacion2\pg2-s19e203-estructuras-de-control-kuasniski\Estructuras_Control_Flujo\Venta2.0\obj\Debug\netcoreapp2.1\Venta2.0.pdb
